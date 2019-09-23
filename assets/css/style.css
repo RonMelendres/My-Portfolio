@@ -1,0 +1,9 @@
+body {
+    /* width: 980px; */
+}
+
+.jumbotron {
+    background-image: url("");
+    background-size: cover;
+    text-align: center;
+}
