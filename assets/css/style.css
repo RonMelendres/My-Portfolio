@@ -45,8 +45,6 @@ img {
     text-align: center;
 }
 
-
-
 .card-text{
     margin: 10px 10px 20px 250px;
     width: 70%;
@@ -71,3 +69,23 @@ img {
     padding-top: -30px;
     padding-bottom: -30px;
 }
+
+
+@media (min-width: 576px) { ... }
+
+
+@media (min-width: 768px) {
+    
+    /* .card-img{
+    width: 100px;
+    height: 100px; */
+   
+}}
+
+
+
+
+@media (min-width: 992px) { ... }
+
+
+@media (min-width: 1200px) { ... }
