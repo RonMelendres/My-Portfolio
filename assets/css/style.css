@@ -1,9 +1,42 @@
-body {
-    /* width: 980px; */
+.navbar.navbar-expand-lg.navbar-dark.bg-dark{
+    height: 50px;
+   color: lightgray;
+   position: relative;
 }
 
-.jumbotron {
-    background-image: url("");
+.navbar-brand{
+    font-size: 25px;
+    position: relative;
+}
+
+.nav-link {
+    font-size: 20px;
+    color: lightgray; 
+    position: relative;
+}
+
+.golden-gate {
+    background-image: url("../images/golden-gate-bridge.jpg");
+    min-height: 600px;
+    width: 100%;
+    padding-bottom:20px;
+    background-position: center;
     background-size: cover;
-    text-align: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+
+
+
+
+.card{
+    background-color: rgba(255, 255, 255, 0.089);
+    width: 60%;
+    margin: 10px 230px 10px 230px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
 }
