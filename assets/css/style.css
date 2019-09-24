@@ -45,11 +45,11 @@ img {
     text-align: center;
 }
 
-.card-text{
-    margin: 10px 10px 20px 250px;
+/* .card-text{
+    margin: 10px 10px 20px 10px;
     width: 70%;
     line-height: 1.6;
-}
+} */
 
 .card-img{
     width: 150px;
@@ -81,9 +81,6 @@ img {
     height: 100px; */
    
 }}
-
-
-
 
 @media (min-width: 992px) { ... }
 
