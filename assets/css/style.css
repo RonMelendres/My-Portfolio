@@ -1,3 +1,7 @@
+body {
+    background-image: url("../images/interlaced-copy copy.png")
+}
+
 .navbar.navbar-expand-lg.navbar-dark.bg-dark{
     height: 50px;
    color: lightgray;
@@ -26,17 +30,44 @@
     position: relative;
 }
 
-
-
-
-
-.card{
-    background-color: rgba(255, 255, 255, 0.089);
-    width: 60%;
-    margin: 10px 230px 10px 230px;
+.card {
+    text-align: center;
+    width: 80%;
+    margin: 10px 100px 10px 100px;
 }
 
 img {
     height: 200px;
     width: 200px;
+}
+
+.card-text-about {
+    text-align: center;
+}
+
+
+
+.card-text{
+    margin: 10px 10px 20px 250px;
+    width: 70%;
+    line-height: 1.6;
+}
+
+.card-img{
+    width: 150px;
+    height: 150px;
+   
+}
+
+.card-title-2{
+    color: lightgray;
+    background-color: rgba(128, 128, 128, 0.925);
+    text-align: center;
+    margin: 100px 10px 10px 10px;
+    padding-bottom: 0px;
+}
+
+.col-sm-3{
+    padding-top: -30px;
+    padding-bottom: -30px;
 }
