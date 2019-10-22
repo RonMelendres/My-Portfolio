@@ -1,0 +1,91 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: url("../images/interlaced-copy copy.png")
+}
+
+.navbar.navbar-expand-lg.navbar-dark.bg-dark{
+    height: 50px;
+   color: lightgray;
+   position: relative;
+}
+
+.navbar-brand{
+    font-size: 25px;
+    position: relative;
+}
+
+.nav-link {
+    font-size: 20px;
+    color: lightgray; 
+    position: relative;
+}
+
+.golden-gate {
+    background-image: url("../images/golden-gate-bridge.jpg");
+    min-height: 600px;
+    width: 100%;
+    padding-bottom:20px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.card {
+    text-align: center;
+    width: 80%;
+    margin: 10px 100px 10px 100px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.card-text-about {
+    text-align: center;
+}
+
+.card-text{
+    color: black;
+    line-height: 1.6;
+}
+
+.card-img{
+    width: 150px;
+    height: 150px;
+   
+}
+
+.card-title-2{
+    color: lightgray;
+    background-color: rgb(70, 68, 68);
+    text-align: center;
+    margin: 100px 10px 10px 10px;
+    padding-bottom: 0px;
+}
+
+.col-sm-3{
+    padding-top: -30px;
+    padding-bottom: -30px;
+}
+
+
+@media (min-width: 576px) { ... }
+
+
+@media (min-width: 768px) {
+    
+    /* .card-img{
+    width: 100px;
+    height: 100px; */
+   
+}}
+
+@media (min-width: 992px) { ... }
+
+
+@media (min-width: 1200px) { ... }
