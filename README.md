@@ -2,13 +2,17 @@
 
 ## Summary 
 
-This is the first updated version of My Portfolio. It uses Bootstrap for the basic layout.
+This is an updated version of my Portfolio. 
+
+https://dry-earth-50021.herokuapp.com/
 
 ## Site Picture
 
-![alttext](assets/images/portfolio-snapshot.png)
+![alttext](public/images/portfolio-snapshot.png)
 
 ## Technologies Used
+
+Express.js - Used to create the http server for this page.
 
 Bootstrap - Bootstrap is used to create the basic layout of the page. The main aspects from Bootstrap used is the navbar and cards.
 
