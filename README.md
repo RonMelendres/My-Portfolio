@@ -2,7 +2,7 @@
 
 ## Summary 
 
-This is an updated version of my Portfolio. 
+This is an updated version of my Portfolio.
 
 https://dry-earth-50021.herokuapp.com/
 
@@ -19,6 +19,12 @@ Bootstrap - Bootstrap is used to create the basic layout of the page. The main a
 HTML- Used to create the basic structure of the page.
 
 CSS- Adds scrolling behavior, background image, and some style to the sections and text of the page.
+
+## Future Development
+
+This version of my portfolio introduces some backend concepts using express in the server.js file. At the moment, my portfolio is designed to be one page, however as my knowledge grows, the portfolio may expand to have multiple pages. 
+
+As this portfolio will always be evolving, another developement may be to try another responsive build like Bootstrap. 
 
 ## Code Snippet
 
